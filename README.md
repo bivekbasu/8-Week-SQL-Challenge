@@ -18,7 +18,7 @@ This repository contains the solution for the 8 case studies in [#8WeekSQLChalle
 
 <img src="https://user-images.githubusercontent.com/120264629/212469310-60bfccab-1075-453a-b8b5-3892a80e409a.png" width="500" height="530" />
 
-View the case study [here](https://8weeksqlchallenge.com/case-study-1/) and my solution here.
+View the case study [here](https://8weeksqlchallenge.com/case-study-1/) and my solution [here](https://github.com/bivekbasu/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231-Danny's%20Diner/Solution.md).
 
 ### Business Task
 
