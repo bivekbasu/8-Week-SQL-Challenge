@@ -6,11 +6,6 @@ This repository contains the solution for the 8 case studies in [#8WeekSQLChalle
 
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
-- [Case Study #3: Foodie-Fi]
-- [Case Study #4: Data Bank]
-- [Case Study #5: Data Mart]
-- [Case Study #6: Clique Bait]
-- [Case Study #8: Fresh Segments]
 
 ***
 
